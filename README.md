@@ -4,6 +4,8 @@
 
 This is a blank project that will be the foundation built upon for each lesson in this course.
 
+[**Watch Episode 1 to learn how to use this >**](https://youtu.be/C1jGdht7E44)
+
 [**Subscribe for access to all video courses >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/)
 
 [**Support this project on Patreon >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/) and get early access to new videos!
